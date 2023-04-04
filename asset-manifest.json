@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cinerama-react/static/css/main.72e9733a.css",
-    "main.js": "/cinerama-react/static/js/main.1a3e31f3.js",
+    "main.js": "/cinerama-react/static/js/main.3a9d2392.js",
     "index.html": "/cinerama-react/index.html",
     "main.72e9733a.css.map": "/cinerama-react/static/css/main.72e9733a.css.map",
-    "main.1a3e31f3.js.map": "/cinerama-react/static/js/main.1a3e31f3.js.map"
+    "main.3a9d2392.js.map": "/cinerama-react/static/js/main.3a9d2392.js.map"
   },
   "entrypoints": [
     "static/css/main.72e9733a.css",
-    "static/js/main.1a3e31f3.js"
+    "static/js/main.3a9d2392.js"
   ]
 }
