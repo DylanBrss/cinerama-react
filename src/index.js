@@ -7,11 +7,11 @@ import FilmEN from './pages/FilmEN';
 import Film2023 from './pages/Film2023';
 import Top50 from './pages/Top50';
 import Recherche from './pages/Recherche';
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createHashRouter, RouterProvider } from "react-router-dom";
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
-    path: "/",
+    path: "/*",
     element: <Home />
   },
   {
